@@ -52,5 +52,5 @@ export async function getStaticPaths() {
 }
 
 export const getStaticProps: GetStaticProps = (ctx) => {
-  return getWordPressProps({ ctx, revalidate: 900 });
+  return getWordPressProps({ ctx, revalidate: 60 });
 };
