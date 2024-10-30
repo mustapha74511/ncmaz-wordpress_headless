@@ -49,7 +49,6 @@ module.exports = {
           800: customColors("--c-primary-800"),
           900: customColors("--c-primary-900"),
         },
-        logoc: '#1E3A8A',
         secondary: {
           50: customColors("--c-secondary-50"),
           100: customColors("--c-secondary-100"),
