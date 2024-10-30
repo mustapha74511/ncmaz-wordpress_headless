@@ -77,11 +77,11 @@
 	],
 	"site_header": {
 		"desktop_header": {
-			"header_style": "style2"
+			"header_style": "style3"
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2023 RealGadgets Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2024 RealGadgets Company, Inc. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -203,11 +203,11 @@
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
 			"message": "Lost password not implemented yet! Please contact admmin for support.",
-			"url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+			"url_lostpassword_default_of_wp": "https://realgadgets.io/wp-login.php?action=lostpassword"
 		}
 	},
 	"mobile_nav_sidebar": {
-		"description": "Discover the most outstanding articles on all topics of life. Write your stories and share them with the community. "
+		"description": "Gadget insights, straight from the source. Write your stories and share them with the community. "
 	},
 	"help_page": {
 		"uri": "/helps",
@@ -226,17 +226,17 @@
 			{
 				"name": "address",
 				"title": "🚀 ADDRESS",
-				"desc": "123 Main Street, New York, NY 10001"
+				"desc": "Earth"
 			},
 			{
 				"name": "email",
 				"title": "💌 EMAIL",
-				"desc": "example@example.com"
+				"desc": "info@realgadgets.io"
 			},
 			{
 				"name": "phone",
 				"title": "☎️ PHONE",
-				"desc": "+88 123 456 789"
+				"desc": "000"
 			},
 			{
 				"name": "working_hours",
