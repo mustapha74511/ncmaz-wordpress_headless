@@ -32,18 +32,18 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
+		"site_title": "RealGadgets.io",
+		"site_description": "Real Gadgets, Real Talk",
+		"site_keywords": "RealGadgets Malta",
+		"site_author": "Aragon Shariza",
+		"site_email": "info@realgadgets.io",
+		"site_phone": "000",
+		"site_address": "000",
+		"site_city": "000",
+		"site_state": "000",
+		"site_zip": "000",
+		"site_country": "000",
+		"site_url": "https://realgadgets.io",
 		"site_logo": "/logo.png",
 		"site_logo_light": "/logo-light.png",
 		"site_favicon": "/favicon.png"
@@ -51,37 +51,37 @@
 	"site_socials": [
 		{
 			"name": "facebook",
-			"url": "https://www.facebook.com/yourfacebookpage",
+			"url": "https://www.facebook.com/realgadgetsio",
 			"icon": "/images/socials/facebook.svg",
 			"description": "Follow us on Facebook"
 		},
 		{
 			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
+			"url": "https://twitter.com/realgadgetsio",
 			"icon": "/images/socials/x-twitter.svg",
 			"description": "Follow us on Twitter"
 		},
 
 		{
 			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
+			"url": "https://www.github.com/realgadgetsio",
 			"icon": "/images/socials/github.svg",
 			"description": "Follow us on Github"
 		},
 		{
 			"name": "tiktok",
-			"url": "https://www.tiktok.com/yourtiktokpage",
+			"url": "https://www.tiktok.com/realgadgetsio",
 			"icon": "/images/socials/tiktok.svg",
 			"description": "Follow us on Tiktok"
 		}
 	],
 	"site_header": {
 		"desktop_header": {
-			"header_style": "style3"
+			"header_style": "style2"
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2023 ChisNghiax Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2023 RealGadgets Company, Inc. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
