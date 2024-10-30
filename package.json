@@ -3,11 +3,11 @@
   "private": true,
   "version": "2.6.2",
   "scripts": {
-    "dev": "npm run generate && concurrently \"faust dev\" \"npm run watch-codegen\"",
-    "build": "faust build",
-    "postbuild": "next-sitemap",
-    "generate": "faust generatePossibleTypes",
-    "start": "faust start",
+   "dev": "npm run generate && concurrently \"npx faust dev\" \"npm run watch-codegen\"",
+"generate": "npx faust generatePossibleTypes",
+"build": "npx faust build",
+"start": "npx faust start",
+
     "codegen": "graphql-codegen",
     "watch-codegen": "graphql-codegen -w",
     "wc": "graphql-codegen -w",
