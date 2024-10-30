@@ -84,7 +84,7 @@ export default function Footer({ menuItems }: Props) {
 						))}
 					</div>
 					<p className="mt-8 text-[13px] leading-5 text-gray-500 md:order-1 md:mt-0">
-						{NC_SITE_SETTINGS.site_footer?.all_rights_reserved_text}
+						RealGadgets.io
 					</p>
 				</div>
 			</div>
